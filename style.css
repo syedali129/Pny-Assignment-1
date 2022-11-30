@@ -1,0 +1,159 @@
+
+.main{
+    height: 600px;
+    width: 100%;
+    background-image: url(./images/4.jpg);
+    background-repeat: no-repeat;
+    
+}
+.header{
+    height: 90px;
+    
+}
+.logo{
+    float: left;
+    padding-left: 10px;
+    height: 100px;
+    
+}
+.png{
+    height: 90px;
+}
+.nav{
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    margin-top: 20px;
+}
+.nav a{
+    padding: 0 9px 0 9px;
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+}
+.nav a:hover {
+    background-color: #ddd;
+    color: black;
+    size: 14px;
+  }
+  .marq{
+    height: 50px;
+    font-size: 30px;
+    background-color: black;
+    color: beige;
+    
+  }
+.service{
+    text-align: center;
+    color: rgb(22, 22, 75);
+    padding-top: 10px;
+}
+.service1{
+    display: flex;
+    justify-content: center;
+    padding-top:40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.img1{
+    float: left;
+    text-align: center;
+    margin-left: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.img2{
+    float: left;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.img3{
+    float: right;
+    text-align: center;
+    margin-right: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
+.image{
+    height: 80px;
+    width: 80px;
+    text-align: center;
+}
+.service2{
+    margin-left: 20px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    padding-top:60px;
+    padding-bottom: 60px;
+}
+.imagetext{
+    height: 350px;
+    background-image: url(./images/09.jpg);
+    background-repeat: no-repeat;
+    
+}
+.text{
+    text-align: center;
+    padding-left: 90px;
+    padding-right: 90px;
+    color: white;
+    padding-top: 120px;
+   
+}
+.footer{
+    display: flex;
+    width: 100%;
+    background-color: rgb(34, 34, 36);
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.footerlogo{
+    float: left;
+    width: 50%;
+    margin-top: -30px;
+    
+}
+.logo2{
+    margin-left: 25px;
+    height: 100px;
+}
+.logotext{
+    margin-top: -15px;
+    margin-left: 9px;
+    color: #ddd;
+    font-size: 20px;
+
+}
+.links{
+    float: left;
+    width: 25%;
+    padding-right: 50px;
+    
+}
+.address{
+    float: right;
+    color: #c9c8c8;
+    text-align: center;
+    width: 25%;
+    margin-right: 17px;
+    
+}
